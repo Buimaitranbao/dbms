@@ -1,6 +1,8 @@
 # Database Management System - September 2019
 ## Recommended textbooks
-[Raghu Ramakrishnan and Johannes Gehrke, Database Management Systems, 3rd Edition, McGraw Hill, 2003.](https://www.amazon.com/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638)
+- [Raghu Ramakrishnan and Johannes Gehrke, Database Management Systems, 3rd Edition, McGraw Hill, 2003](https://www.amazon.com/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638)
+- [Bryan Syverson and Murach Joel, SQL Server 2016 for Developers, Mike Murach & Associates Inc., 2016](https://www.amazon.com/Murachs-SQL-Server-2016-Developers/dp/1890774960/ref=sr_1_2?keywords=murach+sql+2016&qid=1569557257&s=books&sr=1-2)
+- [Itzik Ben-Gan, Adam Machanic, Dejan Sarka, and Kevin Farlee, T-SQL Querying(Developer Reference), Microsft Press, 2015](https://www.amazon.com/T-SQL-Querying-Developer-Reference-Ben-Gan/dp/0735685045)
 
 ## Sample databases
 - [University](2019_09/labs/databases/SUni_create.sql)
