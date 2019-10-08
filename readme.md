@@ -27,3 +27,7 @@
 ## Dynamic SQL in T-SQL
 - [Lecture slides](2019_09/slides/TSQL_dynamic_sql.pdf)
 - [Lab 04](2019_09/labs/lab_04.pdf)
+
+## Stored procedures, User-defined functions, and Triggers in T-SQL
+- [Lecture slides](2019_09/slides/T-SQL_SP_UF_TG.pdf)
+- [Lab 05](2019_09/labs/lab_05.pdf)
