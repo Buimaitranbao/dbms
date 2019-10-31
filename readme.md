@@ -34,5 +34,5 @@
 - [Lab 05](2019_09/labs/lab_05.pdf)
 
 ## Views in T-SQL
-- [Lecture slides](2019_09/slides/T-SQL_View.pdf)
+- [Lecture slides](2019_09/slides/tsql_view.pdf)
 - [Lab 06](2019_09/labs/lab_06.pdf)
