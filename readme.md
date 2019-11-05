@@ -38,4 +38,5 @@
 - [Lab 06](2019_09/labs/lab_06.pdf)
 
 ## Transactions and concurrency control in T-SQL
+- [Lecture slides](2019_09/slides/tsql_xact.pdf)
 - [Lab 07](2019_09/labs/lab_07.pdf)
